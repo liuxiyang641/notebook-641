@@ -28,5 +28,6 @@ Temporary Items
 # jupyter
 **/.ipynb_checkpoints
 
-# coursera
-deeplearning-notebook/coursera
+## python
+**/__pycache__
+
