@@ -84,7 +84,8 @@ loss函数是交叉熵
 ![ef93ac34c9ae623d83ee85adef18eb4a](resources/81E8040F-874A-4D9C-89D8-A7D87F654C5B.jpg)
 
 <center>Model convergence curves on the Criteo dataset.</center>
-从上面的收敛趋势可以看到FFM，ONN这样使用了aware的模型，logloss收敛速度是由于其它模型的。
+从上面的收敛趋势可以看到FFM，ONN这样使用了aware的模型，logloss收敛速度是由于其它模型的。  
+
 #### 6.2.3 Analysis of different operations
 默认情况下ONN是使用内积作为operation，论文中就inner-product, outer-product, sub-network, inner+outer-product四种operation进行了比较。
 

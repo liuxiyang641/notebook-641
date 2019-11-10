@@ -10,3 +10,11 @@
 9. neural-network based approaches have shown（基于神经网络的方法...）
 10. we base the following definitions on pairwise paths between AST terminals.（base...on... 基于）
 11. if and only if...(当且仅当)
+12. This paper makes the following contributions.（本论文的贡献集中在以下方面）
+13. Section 6 and 7 are dedicated to the discussion of our results and conclusions.（第6部分和第七部分集中于）
+14. In the next section we describe（在下一部分我们描述了）
+15. To summarize, our E.T.-RNN approach would possibly work better than（总的来说.....）
+16. In this following,（在这之后）
+17. Khashman  tests NN classiﬁers with different training to validation data ratios （测试了不同训练集和测试集比...）
+18. By employing different kernel functions, SVM technique can be applied to（通过应用不同的核函数...）
+19. The process of boosting continues until the loss function reduction becomes limited.（直至损失函数收敛）
