@@ -32,3 +32,4 @@
 31. In general, the modeling process boils down to extracting local or global connectivity patterns between entities（通常，建模过程归结为....）
 32. we show marked performance gains in comparison to state-of-the-art methods on all datasets.（和目前最好的结果表现出了显著的结果）
 33. To the best of our knowledge,（就我们目前所知）
+34. aroused considerable research interest（引起了很大的研究兴趣）
