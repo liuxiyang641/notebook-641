@@ -33,3 +33,24 @@
 32. we show marked performance gains in comparison to state-of-the-art methods on all datasets.（和目前最好的结果表现出了显著的结果）
 33. To the best of our knowledge,（就我们目前所知）
 34. aroused considerable research interest（引起了很大的研究兴趣）
+35. we ﬁnd that COMPGCN outperforms all the existing methods in 4 out of 5 metrics on FB15k-237 and in 3 out of 5 metrics on WN18RR dataset.(数据集里的在4个里面的五个指标上取得了更好的结果)
+36. We defer this as future work（我们推迟这个作为将来的工作）
+37. a blowup in the number of parameters that need to be estimated.（大量需要估计的参数）
+38. Another approach for graph embeddings is thus to leverage proven approaches for language embeddings.（使用已经被证明过的方法...）
+39. we also discuss quality metrics that provide ways to measure quantitative aspects of these dimensions. （讨论定量的方面....）
+40. GNNs are notorious for their poor scalability.（GNN因差可扩放性而臭名昭著）
+41. We speculate that（我们推测...）
+42. In this setting, we compare the（在这种设置下）
+43. we leave these results out of our comparison table.（我们在对比结果中排除了....）
+44. Three benchmark datasets (FB15k-237, WN18RR and FB15k-237-Attr) are utilized in this study. （在本文中使用了...数据集）
+45. Our work is mainly related to two lines of research（我们的工作主要与两方面的研究有关）
+46. Empirically, our model yields considerable performance improvements over existing embedding models,（我们的论文取得了很大的效果提升）
+47. We empirically evaluate different choices of entity representations and relation representations under this framework on the canonical link prediction task（我们在典型的，标准的任务上评估了）
+48. SEEK can achieve either state-of-the-art or highly competitive performance on a variety of benchmarks for KGE compared with existing methods.（和现在的方法相比，方法达到了有竞争力或者目前最优的解）
+49. Numerous efforts have since continued to push the boundaries of recurrent language models（人们一直不断努力扩大模型的界限）
+50. Our overarching interest is whether（我们首要的兴趣是...）
+51. Our experimental study provides additional evidence for this ﬁnding.（我们的实验为之间的发现提供了额外的证明）
+52. Similar remarks hold for RESCAL and DistMult as well as (albeit to a smaller extent) ConvE and TransE.（类似的说法对于....也成立）
+53. RESCAL (Nickel et al., 2011), which constitutes one of the ﬁrst KGE models（Resscal被视作KGE的第一个工作之一）
+54. predicting the properties of molecules and materials using machine learning (and especially deep learning) is still in its infancy.（使用机器学习预测化学分子或者材料的属性仍然处在初期阶段）
+55. most research applying machine learning to chemistry tasks has revolved around feature engineering.（大多数的研究都是围绕...）
